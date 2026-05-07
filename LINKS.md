@@ -1,0 +1,1 @@
+HF url: https://huggingface.co/dungvq1234/qwen2.5-0.5b-vi-lab21-r16
